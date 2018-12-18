@@ -1,2 +1,3 @@
 # Contador-lineas-y-palabras-JAVA
-Contador de líneas y palabras 
+
+Programa que cuenta el número de líneas y palabras de un archivo .txt en JAVA y muestra el resultado en la terminal.
